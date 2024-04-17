@@ -49,14 +49,4 @@ This project serves as a hands-on introduction to building web applications with
 - **SvelteKit Documentation**: [SvelteKit Documentation](https://kit.svelte.dev/docs)
 - **TailwindCSS Documentation**: [TailwindCSS Documentation](https://tailwindcss.com/docs)
 
-## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Have fun exploring SvelteKit! 🚀
