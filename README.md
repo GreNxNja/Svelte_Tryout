@@ -33,7 +33,7 @@ This project serves as a hands-on introduction to building web applications with
    ```
 
 5. **Open in Browser**:
-   Navigate to `http://localhost:3000` to view the landing page.
+   Navigate to `http://localhost:5173` to view the landing page.
 
 ## Project Structure
 
