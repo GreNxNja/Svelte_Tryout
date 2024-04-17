@@ -1,5 +1,3 @@
-Sure, here's the updated README with the provided GitHub repository link:
-
 # SvelteKit Gym Landing Page
 
 I built this beginner-friendly landing page using SvelteKit for the first time. It's a simple project aimed at helping newcomers learn SvelteKit and TailwindCSS by example.
