@@ -1,4 +1,4 @@
-# SvelteKit Gym Landing Page
+# SwoleyMoley
 
 I built this beginner-friendly landing page using SvelteKit for the first time. It's a simple project aimed at helping newcomers learn SvelteKit and TailwindCSS by example.
 
