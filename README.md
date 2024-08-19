@@ -33,7 +33,7 @@ This project serves as a hands-on introduction to building web applications with
    ```
 
 5. **Open in Browser**:
-   Navigate to `http://localhost:3000` to view the landing page.
+   Navigate to `http://localhost:5173` to view the landing page.
 
 ## Project Structure
 
@@ -49,8 +49,8 @@ This project serves as a hands-on introduction to building web applications with
 - **SvelteKit Documentation**: [SvelteKit Documentation](https://kit.svelte.dev/docs)
 - **TailwindCSS Documentation**: [TailwindCSS Documentation](https://tailwindcss.com/docs)
 
-## Contributing
 
+<<<<<<< HEAD
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
@@ -60,3 +60,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 
+=======
+>>>>>>> 574bca958ec5addc32371af7833d08845d0fdd45
